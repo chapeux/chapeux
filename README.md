@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mrunanka/mrunanka/master/assets/rainbow_wave.gif" width="100%" height="100px">
-</div>
-
-<div align="center">
   <h3> 🚀 Estudante de Engenharia de Software & Frontend Developer </h3>
   <p> Apaixonado por transformar ideias em experiências digitais intuitivas. </p>
 </div>
@@ -35,15 +31,6 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" target="_blank">
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chapeux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapeux&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
